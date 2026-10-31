@@ -1,0 +1,6 @@
+{
+  "name": "Phòng Trao Đổi Trực Tuyến",
+  "description": "Nền tảng trao đổi, thảo luận và nhắn tin thời gian thực cho nhiều người cùng tham gia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
